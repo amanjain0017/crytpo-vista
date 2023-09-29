@@ -6,8 +6,7 @@ Crypto Vista is a web application that allows you to view the top 100 cryptocurr
 
 ## Demo
 
-
-
+https://github.com/amanjain0017/crytpo-vista/assets/132781670/69f16a06-d097-477f-afb4-366b45eb4833
 
 ## Features
 - View the top 100 cryptocurrencies by market capitalization through Pagination.
